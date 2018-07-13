@@ -1,0 +1,15 @@
+_Data sources_
+
+HUB
+https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+
+#1 problem: 
+I want to map the rate of homelessness over the last 50 years. HUB only allows you to go back to 2007, they started the PIT count in 2005.
+And it's never per county, only states or CoC (CoC = regional or local body that coordinates housing & services funding for homeless people.
+A CoC can literally be anything: cities, suburbs, rural areas..)
+https://endhomelessness.org/resource/what-is-a-continuum-of-care/
+
+#2 problem:
+After looking for more than an hour for any data about homelessness/counties it seems that there is none!
+Sad. So I can either focus on one or two specific cities like L.A. and NYC (looked into their datasets, didn't see any going back more than 
+3 yrs) or do a choropleth showing homelessness per state over the course of 10 years.
