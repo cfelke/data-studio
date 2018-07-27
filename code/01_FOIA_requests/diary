@@ -1,4 +1,14 @@
-data sources
+_data sources
 
 https://www.foia.gov/
 https://www.epa.gov/foia/foia-reports
+
+Extracting so many tables with tabula takes a lot of time, wow.
+And thanks FOIA gov for only publishing a fraction of the EPA's annual FOIA reports, I should have looked in the agency's report at the first place.
+
+_problems
+I worked on a dataframe literally consisting of one line for hours (yup, horrible). I'll never do this again. 
+Just type the df by hand, it saves you from so much trouble. 
+
+I don't know how to sort_values a waffle graph, do I really need to type the values in descending order, like manually?
+This can't be true.
